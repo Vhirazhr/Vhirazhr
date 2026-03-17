@@ -32,15 +32,34 @@
 ---
 
 ### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vhirazhr&show_icons=true&theme=radical"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vhirazhr&layout=compact&theme=radical"/>
-</p>
+
+<table width="100%">
+<tr>
+
+<td width="49%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vhirazhr&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&border_color=FF69B4" width="100%" />
+
+</td>
+
+<td width="2%" align="center">
+
+❘
+
+</td>
+
+<td width="49%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vhirazhr&layout=compact&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=ffffff&border_color=FF69B4" width="100%" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ### 🌸 Little Note
 <p align="center">
-  ✨ "Small progress is still progress" ✨
+✨ "Small progress is still progress" ✨
 </p>
