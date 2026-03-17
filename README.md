@@ -2,64 +2,47 @@
 <h3 align="center">💻 Informatics Student | Future Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Welcome+to+my+GitHub+💖;Learning+to+code+everyday+🚀;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Welcome+to+my+GitHub+💖;Learning+everyday+🚀;Future+Software+Engineer" />
 </p>
 
 ---
 
+<!-- STATS CARDS - PINK THEME -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8c/1b/f4/8c1bf4d6c0c7f63e6a4b9b38f7e0c0a7.gif" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vhirazhr&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&border_color=FF69B4" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vhirazhr&layout=compact&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=ffffff&border_color=FF69B4" width="48%" />
+</p>
+
+<!-- STREAK STATS -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vhirazhr&theme=radical&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=9f9f9f" width="90%" />
 </p>
 
 ---
+
+<!-- ABOUT ME SECTION WITH FRAMES -->
+<table>
+<tr>
+<td width="50%" align="center">
 
 ### 🖤 About Me
-- 🎓 Politeknik Negeri Malang  
-- 💡 Currently learning: Java, OOP, Web Dev  
-- 🌱 Still growing and improving everyday  
-- 🎯 Goal: Become a Software Engineer  
 
----
-
-### 💖 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=FF69B4"/>
-  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=FF69B4"/>
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=FF69B4"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=FF69B4"/>
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<table width="100%">
-<tr>
-
-<td width="49%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vhirazhr&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&border_color=FF69B4" width="100%" />
+- 🎓 **Politeknik Negeri Malang**  
+- 💡 Learning Java, OOP, Web Dev  
+- 🌱 Still improving everyday  
+- 🎯 Future Software Engineer  
+- 📫 Reach me: **fakhira@example.com**  
 
 </td>
+<td width="50%" align="center">
 
-<td width="2%" align="center">
+### 💖 Current Activity
 
-❘
-
-</td>
-
-<td width="49%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vhirazhr&layout=compact&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=ffffff&border_color=FF69B4" width="100%" />
-
-</td>
-
-</tr>
-</table>
-
----
-
-### 🌸 Little Note
-<p align="center">
-✨ "Small progress is still progress" ✨
-</p>
+```javascript
+// code of the day
+while (alive) {
+    eat();
+    code();
+    sleep();
+    repeat();
+}
