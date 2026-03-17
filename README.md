@@ -7,14 +7,15 @@
 
 ---
 
-<!-- STATS -->
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vhirazhr&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&border_color=FF69B4" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vhirazhr&layout=compact&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=ffffff&border_color=FF69B4" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vhirazhr&theme=radical&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=9f9f9f" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vhirazhr&theme=radical&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=9f9f9f" width="70%" />
 </p>
 
 ---
@@ -24,9 +25,7 @@
 
 <td width="50%" valign="top">
 
-### 🖤 About Me
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+## 🖤 About Me
 - 🎓 Politeknik Negeri Malang  
 - 💡 Learning Java, OOP, Web Dev  
 - 🌱 Still improving everyday  
@@ -37,8 +36,7 @@
 
 <td width="50%" valign="top">
 
-### 💖 Daily Loop
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 💖 Daily Loop
 
 ```javascript
 while (alive) {
