@@ -25,18 +25,21 @@
 
 <td width="50%" valign="top">
 
-## 🖤 About Me
+### 💖 About Me
+━━━━━━━━━━━━━━━━━━━━━━
 - 🎓 Politeknik Negeri Malang  
 - 💡 Learning Java, OOP, Web Dev  
 - 🌱 Still improving everyday  
 - 🎯 Future Software Engineer  
 - 📫 fakhirazahra88@gmail.com  
+━━━━━━━━━━━━━━━━━━━━━━
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💖 Daily Loop
+### 🖤 Daily Loop
+━━━━━━━━━━━━━━━━━━━━━━
 
 ```javascript
 while (alive) {
