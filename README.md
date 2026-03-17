@@ -7,39 +7,44 @@
 
 ---
 
+<!-- STATS CARDS - PINK THEME -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vhirazhr&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&border_color=FF69B4" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vhirazhr&layout=compact&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=ffffff&border_color=FF69B4" width="48%" />
+</p>
+
+<!-- STREAK STATS -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vhirazhr&theme=radical&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=9f9f9f" width="90%" />
+</p>
+
+---
+
+<!-- ABOUT ME SECTION WITH FRAMES -->
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center" style="border: 2px solid #FF69B4; border-radius: 15px; padding: 20px;">
 
 ### 🖤 About Me
-- 🎓 Politeknik Negeri Malang  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+- 🎓 **Politeknik Negeri Malang**  
 - 💡 Learning Java, OOP, Web Dev  
 - 🌱 Still improving everyday  
 - 🎯 Future Software Engineer  
-
----
-
-### 💖 Tech Stack
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=FF69B4"/>
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=FF69B4"/>
-<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=FF69B4"/>
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=FF69B4"/>
+- 📫 Reach me: **fakhira@example.com**  
 
 </td>
+<td width="50%" align="center" style="border: 2px solid #FF69B4; border-radius: 15px; padding: 20px;">
 
-<td width="50%">
+### 💖 Current Activity
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vhirazhr&show_icons=true&theme=radical" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vhirazhr&layout=compact&theme=radical" />
-
-</td>
-</tr>
-</table>
-
----
-
-### 🌸 Quote
-<p align="center">
-✨ "Small progress is still progress" ✨
-</p>
+```javascript
+// code of the day
+while (alive) {
+    eat();
+    code();
+    sleep();
+    repeat();
+}
