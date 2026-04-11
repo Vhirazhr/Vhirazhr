@@ -31,15 +31,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vhirazhr" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vhirazhr&theme=dracula&background=0d1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vhirazhr&layout=compact&theme=dracula&bg_color=0d1117&title_color=FF69B4&text_color=ffffff&border_color=FF69B4" />
 </p>
 
 ---
