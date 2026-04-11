@@ -31,7 +31,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vhirazhr&show_icons=true&theme=dracula&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&border_color=FF69B4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vhirazhr" />
 </p>
 
 <p align="center">
