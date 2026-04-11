@@ -1,5 +1,5 @@
-<h1 align="center">💖 Hi, I'm Fakhira 💖</h1>
-<h3 align="center">📊 Information Systems Student | System Analyst & UI/UX Enthusiast</h3>
+<h1 align="center">💖 こんにちは, I'm Fakhira Zahrany 💖</h1>
+<h3 align="center">📊 International Business System Information Student | System Analyst & UI/UX Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=System+Analyst+%7C+UI%2FUX+Enthusiast;Learning+Game+Dev+%26+3D+Art+🎮;Fluent+in+English+%7C+Team+Player+%26+Leader" />
@@ -13,13 +13,11 @@
 
 ### 💼 Professional Profile
 
-🎓 Information Systems Student passionate about bridging business and technology  
+🎓 International Business System Information Student passionate about bridging business and technology  
 🔍 Focused on System Analysis & UI/UX Design  
 🎮 Exploring Game Development & 3D Art (Unity & Blender)  
-🌐 Fluent in English  
-🤝 Strong team player with leadership capability  
-
-🎯 Goal: Becoming a System Analyst & Creative Technologist  
+🤝 Strong team player with leadership capability
+🎯 Goals: Becoming a System Analyst & Creative Technologist   
 
 ---
 
