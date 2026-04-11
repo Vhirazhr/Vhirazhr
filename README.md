@@ -65,7 +65,6 @@
     <td>Becoming a System Analyst & Creative Technologist</td>
   </tr>
 </table>
----
 
 ### 🛠️ Tech Stack
 <p align="center">
