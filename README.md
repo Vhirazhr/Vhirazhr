@@ -19,11 +19,12 @@
 
 ### 💼 Professional Profile
 
-🎓 International Business System Information Student passionate about bridging business and technology  
-🔍 Focused on System Analysis & UI/UX Design  
-🎮 Exploring Game Development & 3D Art (Unity & Blender)  
-🤝 Strong team player with leadership capability
-🎯 Goals: Becoming a System Analyst & Creative Technologist   
+<p align="center">
+  🎓 <b>Polinema Student</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🔍 <b>System Analyst</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🎨 <b>UI/UX Designer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🎮 <b>Game Dev Learner</b>
+</p>
 
 ---
 
