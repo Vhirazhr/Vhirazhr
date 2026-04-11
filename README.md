@@ -66,7 +66,6 @@
   💼 Let's connect & build something meaningful 💖
 </p>
 
---
 <p align="left">
   <img src="https://media.tenor.com/_Gn_ineFwMkAAAAM/muichirou-yippee.gif" width="300"/>
 </p>
