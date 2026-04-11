@@ -36,7 +36,7 @@
 <table align="center" width="100%">
   <tr>
     <th width="25%">Bidang</th>
-    <th width="75%">Fokus</th>
+    <th width="85%">Fokus</th>
   </tr>
   <tr>
     <td align="center">🎓 <b>Pendidikan</b></td>
