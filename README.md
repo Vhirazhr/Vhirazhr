@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vhirazhr/Vhirazhr/main/images/Avatar.jpg" 
+  <img src="https://raw.githubusercontent.com/Vhirazhr/Vhirazhr/main/images/update.jpg" 
        width="800" 
        style="border: 2px solid #FF69B4; box-shadow: 0 0 15px #FF69B4; border-radius: 16px;" />
 </p>
