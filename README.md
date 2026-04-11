@@ -33,6 +33,18 @@
 
 ---
 
+📌 **Detail:**
+
+| Bidang | Fokus |
+|--------|-------|
+| 🎓 **Pendidikan** | International Business System Information — bridging business & technology |
+| 🔍 **Analisis** | System Analysis, Requirement Gathering, Process Modeling |
+| 🎨 **Desain** | UI/UX Design, Figma, Prototyping, User Research |
+| 🎮 **Eksplorasi** | Game Development (Unity), 3D Art (Blender) |
+| 🤝 **Soft Skill** | Strong team player, leadership capability |
+| 🎯 **Goal** | Becoming a System Analyst & Creative Technologist |
+---
+
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,java,unity,blender,github&theme=light" />
