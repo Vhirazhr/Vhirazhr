@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/_Gn_ineFwMkAAAAM/muichirou-yippee.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/nfi4i9_stakAAAAC/dance.gif" width="200"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://media1.tenor.com/m/Y09rjCT_SIYAAAAC/aww.gif" width="200"/>
   &nbsp;&nbsp;&nbsp;
