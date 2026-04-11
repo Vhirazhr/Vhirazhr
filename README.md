@@ -31,8 +31,6 @@
   <img src="https://img.shields.io/badge/🎯_Goal-Creative_Technologist-FF69B4?style=for-the-badge" />
 </p>
 
----
-
 📌 **Detail:**
 
 <table align="center" width="100%">
@@ -65,6 +63,8 @@
     <td>Becoming a System Analyst & Creative Technologist</td>
   </tr>
 </table>
+
+---
 
 ### 🛠️ Tech Stack
 <p align="center">
