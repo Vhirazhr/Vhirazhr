@@ -20,10 +20,15 @@
 ### 💼 Professional Profile
 
 <p align="center">
-  🎓 <b>Polinema Student</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔍 <b>System Analyst</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🎨 <b>UI/UX Designer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🎮 <b>Game Dev Learner</b>
+  <img src="https://img.shields.io/badge/🎓_Polinema-Business_Information_System-FF69B4?style=for-the-badge" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🔍_Role-System_Analyst_%26_UI%2FUX-FF69B4?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎮_Learning-Game_Dev_%26_3D_Art-FF69B4?style=for-the-badge" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🎯_Goal-Creative_Technologist-FF69B4?style=for-the-badge" />
 </p>
 
 ---
