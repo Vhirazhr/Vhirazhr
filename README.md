@@ -65,3 +65,8 @@
 <p align="center">
   💼 Let's connect & build something meaningful 💖
 </p>
+
+--
+<p align="center">
+  <img src="https://media1.tenor.com/m/_QlIRRatA9cAAAAd/tokito-nezuko.gif" width="500"/>
+</p>
