@@ -67,6 +67,6 @@
 </p>
 
 --
-<p align="center">
-  <img src="https://media1.tenor.com/m/_QlIRRatA9cAAAAd/tokito-nezuko.gif" width="500"/>
+<p align="left">
+  <img src="https://media.tenor.com/_Gn_ineFwMkAAAAM/muichirou-yippee.gif" width="300"/>
 </p>
