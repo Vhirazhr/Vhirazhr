@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vhirazrh</h1>
 <h3 align="center">Business Information Systems Student at Politeknik Negeri Malang</h3>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/JqJrvKKW5mMAAAAd/dance-ddlc.gif" width="250"/>
-</p>
-
 ---
 
 🌱 I’m currently learning **System Analysis, UI/UX, Game Development & 3D Art**  
@@ -15,7 +11,7 @@
 ---
 
 ## 🛠️ Tech & Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/System%20Analysis-pink?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/UI%2FUX-pink?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Game%20Dev-pink?style=for-the-badge"/>
