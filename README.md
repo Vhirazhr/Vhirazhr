@@ -1,4 +1,4 @@
-<h1 align="center">💖 こんにちは, I'm Fakhira Zahrany 💖</h1>
+<h1 align="center">💖 こんにちは!, I'm Fakhira Zahrany 💖</h1>
 <h3 align="center">📊 International Business System Information Student | System Analyst & UI/UX Enthusiast</h3>
 
 <p align="center">
@@ -31,15 +31,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vhirazhr&show_icons=true&theme=dracula&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&border_color=FF69B4&cache_seconds=60" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vhirazhr&show_icons=true&theme=dracula&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&border_color=FF69B4" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vhirazhr&theme=dracula&background=0d1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vhirazhr&theme=dracula&background=0d1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vhirazhr&layout=compact&theme=dracula&bg_color=0d1117&title_color=FF69B4&text_color=ffffff&border_color=FF69B4" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vhirazhr&layout=compact&theme=dracula&bg_color=0d1117&title_color=FF69B4&text_color=ffffff&border_color=FF69B4" />
 </p>
 
 ---
