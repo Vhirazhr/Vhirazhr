@@ -35,14 +35,36 @@
 
 📌 **Detail:**
 
-| Bidang | Fokus |
-|--------|-------|
-| 🎓 **Pendidikan** | International Business System Information — bridging business & technology |
-| 🔍 **Analisis** | System Analysis, Requirement Gathering, Process Modeling |
-| 🎨 **Desain** | UI/UX Design, Figma, Prototyping, User Research |
-| 🎮 **Eksplorasi** | Game Development (Unity), 3D Art (Blender) |
-| 🤝 **Soft Skill** | Strong team player, leadership capability |
-| 🎯 **Goal** | Becoming a System Analyst & Creative Technologist |
+<table align="center" width="100%">
+  <tr>
+    <th width="25%">Bidang</th>
+    <th width="75%">Fokus</th>
+  </tr>
+  <tr>
+    <td align="center">🎓 <b>Pendidikan</b></td>
+    <td>International Business System Information — bridging business & technology</td>
+  </tr>
+  <tr>
+    <td align="center">🔍 <b>Analisis</b></td>
+    <td>System Analysis, Requirement Gathering, Process Modeling</td>
+  </tr>
+  <tr>
+    <td align="center">🎨 <b>Desain</b></td>
+    <td>UI/UX Design, Figma, Prototyping, User Research</td>
+  </tr>
+  <tr>
+    <td align="center">🎮 <b>Eksplorasi</b></td>
+    <td>Game Development (Unity), 3D Art (Blender)</td>
+  </tr>
+  <tr>
+    <td align="center">🤝 <b>Soft Skill</b></td>
+    <td>Strong team player, leadership capability</td>
+  </tr>
+  <tr>
+    <td align="center">🎯 <b>Goal</b></td>
+    <td>Becoming a System Analyst & Creative Technologist</td>
+  </tr>
+</table>
 ---
 
 ### 🛠️ Tech Stack
