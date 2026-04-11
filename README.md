@@ -36,7 +36,7 @@
 <table align="center" width="100%">
   <tr>
     <th width="25%">Bidang</th>
-    <th width="85%">Fokus</th>
+    <th width="75%">Fokus</th>
   </tr>
   <tr>
     <td align="center">🎓 <b>Pendidikan</b></td>
@@ -66,9 +66,24 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Core Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,java,unity,blender,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,java,laravel&theme=light"
+       style="transition: all 0.2s ease;"
+       onmouseover="this.style.transform='translateY(-4px)'"
+       onmouseout="this.style.transform='translateY(0)'" />
+</p>
+
+### 🌱 Currently Exploring & Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,blender,cs,react,arduino&theme=light"
+       style="transition: all 0.2s ease;"
+       onmouseover="this.style.transform='translateY(-4px)'"
+       onmouseout="this.style.transform='translateY(0)'" />
+</p>
+
+<p align="center">
+  <sub>🔨 <b>Current IoT Project:</b> Dasai Mochi — smart device sederhana berbasis Arduino</sub>
 </p>
 
 ---
