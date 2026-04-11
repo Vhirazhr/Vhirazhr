@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vhirazhr/Vhirazhr/main/images/Avatar.jpg" 
-       width="349" 
-       style="border: 2px solid #FF69B4; box-shadow: 0 0 15px #FF69B4; border-radius: 12px;" />
+       width="800" 
+       style="border: 2px solid #FF69B4; box-shadow: 0 0 15px #FF69B4; border-radius: 16px;" />
 </p>
 
 <h1 align="center">💖 こんにちは!, I'm Fakhira Zahrany 💖</h1>
