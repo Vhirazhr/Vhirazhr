@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/JqJrvKKW5mMAAAAd/dance-ddlc.gif" width="180"/>
+  <img src="https://media1.tenor.com/m/JqJrvKKW5mMAAAAd/dance-ddlc.gif" width="800"/>
 </p>
 
 ---
