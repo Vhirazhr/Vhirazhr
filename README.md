@@ -66,6 +66,10 @@
   💼 Let's connect & build something meaningful 💖
 </p>
 
-<p align="left">
-  <img src="https://media.tenor.com/_Gn_ineFwMkAAAAM/muichirou-yippee.gif" width="300"/>
+<p align="center">
+  <img src="https://media.tenor.com/_Gn_ineFwMkAAAAM/muichirou-yippee.gif" width="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media1.tenor.com/m/Y09rjCT_SIYAAAAC/aww.gif" width="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media1.tenor.com/m/IHvsEt-h5msAAAAC/seihantai-you-and-i-are-polar-opposites.gif" width="180"/>
 </p>
