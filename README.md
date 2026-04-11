@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vhirazhr/Vhirazhr/main/images/Avatar.jpg" 
-       width="500" 
+       width="800" 
        style="border-radius: 50%; border: 2px solid #FF69B4; box-shadow: 0 0 15px #FF69B4;" />
 </p>
 
