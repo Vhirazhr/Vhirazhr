@@ -72,11 +72,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/wP824bO6vtkAAAAM/brava.gif" width="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media1.tenor.com/m/nfi4i9_stakAAAAC/dance.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/Y09rjCT_SIYAAAAC/aww.gif" width="200"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://media1.tenor.com/m/Y09rjCT_SIYAAAAC/aww.gif" width="200"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.tenor.com/yQTzA3S-UxYAAAAM/naruto-naruto-dance.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/Y09rjCT_SIYAAAAC/aww.gif" width="200"/>
 </p>
