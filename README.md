@@ -82,10 +82,6 @@
        onmouseout="this.style.transform='translateY(0)'" />
 </p>
 
-<p align="center">
-  <sub>🔨 <b>Current IoT Project:</b> Dasai Mochi — smart device sederhana berbasis Arduino</sub>
-</p>
-
 ---
 
 ### 📊 GitHub Stats
