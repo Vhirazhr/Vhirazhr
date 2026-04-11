@@ -39,7 +39,7 @@
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Vhirazhr&theme=dracula&background=0d1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" 
-    width="90%"
+    width="80%"
   />
 </p>
   
