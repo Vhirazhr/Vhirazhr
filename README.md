@@ -33,7 +33,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vhirazhr&theme=dracula&background=0d1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
 </p>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vhirazhr/Vhirazhr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vhirazhr/Vhirazhr/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Vhirazhr/Vhirazhr/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 ---
 
 ### 🌸 Quote I live by
